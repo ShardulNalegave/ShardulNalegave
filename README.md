@@ -1,6 +1,6 @@
 
 ## Hey 👋🏽, I'm Shardul!
-I am Shardul Nalegave from India. I am 15 years old and Programming is my passion.
+I am Shardul Nalegave from India. I am 16 and Programming is my passion.
 ![](https://visitor-badge.glitch.me/badge?page_id=ShardulNalegave.ShardulNalegave)
 
 <br>
