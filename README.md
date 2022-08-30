@@ -7,13 +7,16 @@ I am Shardul Nalegave from Pune, India. I am 17 and Programming is my passion.
 let aboutme = {
   name: "Shardul Nalegave",
   email: "nalegaveshardul40@gmail.com",
-  languagesICodeIn: ["Rust", "Go", "Javascript/Typescript", "Python", "HTML/CSS"],
+  pronouns: "he" | "his",
+  languagesICodeIn: ["Rust", "Go", "Python", "Dart", "Javascript/Typescript", "HTML/CSS"],
+  tools: ["Vue", "Flutter", "Docker", "Node", "GraphQL", "MongoDB", "Firebase"],
+  currentlyExploring: ["Networking", "Information Theory", "Cryptography"],
 }
 
 ````
 
-<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=ShardulNalegave.ShardulNalegave)
+
 <br>
 
 <img align="right" src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif" width="250px" alt="GIF">
