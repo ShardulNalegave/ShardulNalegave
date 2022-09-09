@@ -1,5 +1,5 @@
 
-## Hey 👋🏽, I'm Shardul!
+## Hey 👋🏽, I'm [Shardul](https://shardul-nalegave.netlify.app)!
 I am Shardul Nalegave from Pune, India. I am 17 and Programming is my passion.
 
 ````javascript
@@ -7,6 +7,7 @@ I am Shardul Nalegave from Pune, India. I am 17 and Programming is my passion.
 let aboutme = {
   name: "Shardul Nalegave",
   email: "nalegaveshardul40@gmail.com",
+  site: "https://shardul-nalegave.netlify.app",
   pronouns: "he" | "his",
   languagesICodeIn: ["Rust", "Go", "Python", "Dart", "Javascript/Typescript", "HTML/CSS"],
   tools: ["Vue", "Flutter", "Docker", "Node", "GraphQL", "MongoDB", "Firebase"],
