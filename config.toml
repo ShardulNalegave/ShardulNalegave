@@ -1,0 +1,44 @@
+
+title = "Shardul Nalegave"
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
+base_url = "https://shardul.info"
+
+generate_feeds = true
+compile_sass = true
+build_search_index = true
+
+[search]
+include_title = true
+include_description = true
+include_path = true
+include_content = true
+index_format = "elasticlunr_json"
+
+[markdown]
+highlight_code = true
+
+[extra.analytics]
+enabled = true
+
+[extra.analytics.goatcounter]
+user = "shardul"
+
+[extra]
+theme = "toggle"
+toc = true
+dynamic_note = true
+fancy_code = true
+socials = [
+    { name = "twitter", url = "https://x.com/ShardulNalegave", icon = "twitter" },
+    { name = "github", url = "https://github.com/ShardulNalegave/", icon = "github" },
+    { name = "twitter", url = "https://www.linkedin.com/in/shardul-nalegave/", icon = "linkedin" },
+]
+menu = [
+    { name = "/about", url = "/about", weight = 1 },
+    { name = "/projects", url = "/projects", weight = 2 },
+    { name = "/posts", url = "/posts", weight = 3 },
+]
+
+mathjax = true
+mathjax_dollar_inline_enable = true
