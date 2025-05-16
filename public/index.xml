@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Shardul Nalegave</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Shardul Nalegave</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m Shardul Nalegave, a second-year Computer Engineering student at PICT, Pune, with an insatiable curiosity for how technology works, right down to the fundamental layers. My journey started back in 6th grade with simple game programming, and that initial spark has grown into a deep passion for Systems and Networking Development. I love the challenge of designing, building, and optimizing the core infrastructure that powers our digital world.&lt;/p&gt;&#xA;&lt;p&gt;My primary focus is on crafting robust networking protocols and distributed systems. I dive deep into specifications (like the various RFCs for DNS) to build tools like Drasil-DNS, a Rust-based library aiming to be part of a larger, self-hostable DNS resolver. I also enjoy exploring the intricacies of operating systems, which led me to create Catalyst-OS, a learning project built from scratch in Rust.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lucerna</title>
+      <link>http://localhost:1313/projects/lucerna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lucerna/</guid>
+      <description>&lt;h2 class=&#34;heading&#34; id=&#34;test-1&#34;&gt;&#xA;  Test 1&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#test-1&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;sjfhgrbgh&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
