@@ -1,5 +1,5 @@
 {
-    "description": "Basic client-server edition",
+    "description": "Knowledge-Base | Shardul Nalegave",
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",

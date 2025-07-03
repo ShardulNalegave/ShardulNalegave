@@ -19,7 +19,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hey There!'
 homeIntroContent = """
-I'm a Computer Engineering sophomore @ PICT in Pune, India.
+I'm a third-year Computer Engineering student @ PICT in Pune, India.
 I'm interested in a range of topics, including systems programming, computer networks, distributed computing and databases.
 """
 
