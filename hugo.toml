@@ -60,9 +60,9 @@ url = "/"
 name = "projects"
 url = "/projects"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
 
 [[params.menu]]
 name = "about"
