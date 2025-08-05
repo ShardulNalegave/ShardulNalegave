@@ -1,0 +1,16 @@
+{
+  "name": "knowledge-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tiddlywiki --build index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "dependencies": {
+    "tiddlywiki": "^5.3.7"
+  }
+}

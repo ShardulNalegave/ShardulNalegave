@@ -1,0 +1,11 @@
+author: Tobias Beer
+core-version: >=5.1.9
+dependents: 
+description: Crosslists and group tiddlers with relations to two categories
+documentation: https://tobibeer.github.io/tw5-plugins#xlist
+list: readme
+plugin-type: plugin
+source: https://github.com/tobibeer/tw5-xlist
+title: $:/plugins/tobibeer/xlist
+type: application/json
+version: 0.5.0
