@@ -1,0 +1,18 @@
+created: 20250806102206743
+modified: 20250806104229126
+tags: atom systems [[concurrency & synchronisation]]
+title: Actor Model
+type: text/vnd.tiddlywiki
+
+* The actor model is a mathematical model of concurrent computation in which each entity is treated as a individual actor.
+* Each actor is responsible for managing its own state. There is no sharing of state between actors
+* Actors can communicate with each other by sending messages
+* The actor model removes the need for lock-based synchronization by keeping state private.
+
+Taken from Wikipedia:-
+
+An actor is a computational entity that, in response to a message it receives, can concurrently:-
+
+* send a finite number of messages to other actors;
+* create a finite number of new actors;
+* designate the behavior to be used for the next message it receives.
